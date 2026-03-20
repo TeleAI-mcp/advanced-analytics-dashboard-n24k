@@ -1,2 +1,3 @@
-# advanced-analytics-dashboard-n24k
-Automated issue comment bot repository
+# Advanced Analytics Dashboard N24K
+
+Automated issue comment bot repository.
